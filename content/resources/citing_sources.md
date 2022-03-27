@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 995b2dc7-478d-924f-a0ce-bad20b8aa1a5
 resourcetype: Document
 title: citing_sources.pdf
 uid: 5908cc63-ba5a-37bd-41be-ed7c13f8e41d

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e027c781-055f-73c6-1ef9-8478c5a12a71
 resourcetype: Document
 title: critical_review.pdf
 uid: 07d3c750-f4a7-bdfc-b34d-0ad29d3bef54

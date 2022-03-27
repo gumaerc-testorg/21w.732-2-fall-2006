@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e027c781-055f-73c6-1ef9-8478c5a12a71
 resourcetype: Document
 title: wkshp2_crit_rev.pdf
 uid: 95dacb5b-30f9-6535-aaf0-cc9bc8732e9c

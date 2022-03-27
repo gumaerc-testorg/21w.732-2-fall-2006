@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e027c781-055f-73c6-1ef9-8478c5a12a71
 resourcetype: Document
 title: wkshp_response.pdf
 uid: 3beaf42a-80a7-1aa4-2c13-03dbff9ff80d

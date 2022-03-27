@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c9b81a04-e98f-343a-efbc-a52f6f2f923d
 resourcetype: Document
 title: ses10.pdf
 uid: 22afb5b2-f6ce-50e9-94de-c4321de66cc1

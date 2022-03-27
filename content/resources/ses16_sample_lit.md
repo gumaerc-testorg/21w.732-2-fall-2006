@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c9b81a04-e98f-343a-efbc-a52f6f2f923d
 resourcetype: Document
 title: ses16_sample_lit.pdf
 uid: 6af77307-3a40-354b-16d2-181fdfb03cf0

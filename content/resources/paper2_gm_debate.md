@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: e027c781-055f-73c6-1ef9-8478c5a12a71
 resourcetype: Document
 title: paper2_gm_debate.pdf
 uid: 7d00748f-3598-432f-e16f-7fe73d1074f5

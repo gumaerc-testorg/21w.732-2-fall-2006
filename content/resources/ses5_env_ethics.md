@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c9b81a04-e98f-343a-efbc-a52f6f2f923d
 resourcetype: Document
 title: ses5_env_ethics.pdf
 uid: cf8ad8a6-a175-418f-0ac9-591f4723eab9

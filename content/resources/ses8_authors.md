@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c9b81a04-e98f-343a-efbc-a52f6f2f923d
 resourcetype: Document
 title: ses8_authors.pdf
 uid: e8066253-d511-23ee-180f-96c2799c2078

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: c9b81a04-e98f-343a-efbc-a52f6f2f923d
 resourcetype: Document
 title: ses11_citing.pdf
 uid: 86e849f8-3cd1-c9d9-80a1-e41a6f598ab4
