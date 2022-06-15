@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Supplementary notes for course text and additional topical notes.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials
