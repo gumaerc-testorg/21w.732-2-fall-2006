@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains projects for the course.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: 531515f6-f8d4-5f13-8303-b498fd1137af
 ---

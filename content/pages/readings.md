@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains the readings for the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: c9b81a04-e98f-343a-efbc-a52f6f2f923d
 ---
@@ -16,7 +20,7 @@ Harris, Jr., Charles E., Michael S. Pritchard, and Michael J. Rabins. _Engineeri
 Readings by Session
 -------------------
 
-Please note: Not all sessions have assigned readings or handouts. Please refer to the [calendar]({{< baseurl >}}/pages/calendar) for details for all sessions.
+Please note: Not all sessions have assigned readings or handouts. Please refer to the {{% resource_link 396cbb1e-8fe4-d254-87ea-729feaf8d7d9 "calendar" %}} for details for all sessions.
 
 {{< tableopen >}}
 
@@ -58,7 +62,7 @@ In-class Writing Sample
 (no readings)
 {{< tdclose >}}
 {{< tdopen >}}
-Writing Sample Prompt ([PDF]({{< baseurl >}}/resources/ses1_prompt))
+Writing Sample Prompt ({{% resource_link 8d2f4df2-5f10-4476-42fc-0f33995ba13f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,9 +135,9 @@ Carson, Rachel. "The Obligation to Endure," chapter 2 in _Silent Spring_. 104th 
 {{< tdopen >}}
 
 
-Environmental Ethics ([PDF]({{< baseurl >}}/resources/ses5_env_ethics))
+Environmental Ethics ({{% resource_link cf8ad8a6-a175-418f-0ac9-591f4723eab9 "PDF" %}})
 
-Discussion Questions for XYZ Case Study ([PDF]({{< baseurl >}}/resources/ses5_xyz))
+Discussion Questions for XYZ Case Study ({{% resource_link 2d20b114-a136-018e-8b26-dc920cfccc49 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -192,12 +196,12 @@ Elshtain, Jean Bethke. "Why Worry About the Animals?" In _Science and Technology
 
 Karpati, Ron. "A Scientist: 'I Am the Enemy.'" In _Science and Technology Today_. (Originally published in _Newsweek_, 18 December, 1989.)
 
-MIT Careers Office: Career Development Workbook (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.2 MB](http://web.mit.edu/career/www/students/workbook.pdf))
+MIT Careers Office: Career Development Workbook ([PDF - 2.2 MB](http://web.mit.edu/career/www/students/workbook.pdf))
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Discussion Questions for Elshtain and Karpati ([PDF]({{< baseurl >}}/resources/ses8_authors))
+Discussion Questions for Elshtain and Karpati ({{% resource_link e8066253-d511-23ee-180f-96c2799c2078 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -263,7 +267,7 @@ Goklany, Indur M. "The Future of Food." _Forum for Applied Research and Public P
 
 {{< tdclose >}}
 {{< tdopen >}}
-Discussion Questions ([PDF]({{< baseurl >}}/resources/ses10))
+Discussion Questions ({{% resource_link 22afb5b2-f6ce-50e9-94de-c4321de66cc1 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -286,7 +290,7 @@ Citing Sources
 (no readings)
 {{< tdclose >}}
 {{< tdopen >}}
-Citing Sources ([PDF]({{< baseurl >}}/resources/ses11_citing))
+Citing Sources ({{% resource_link 86e849f8-3cd1-c9d9-80a1-e41a6f598ab4 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -350,7 +354,7 @@ Peslak, Alan R. "An Ethical Exploration of Privacy and Radio Frequency Identific
 
 {{< tdclose >}}
 {{< tdopen >}}
-Overview of Sample Literature Reviews ([PDF]({{< baseurl >}}/resources/ses14_sample_lit))
+Overview of Sample Literature Reviews ({{% resource_link c57072e7-1850-65ab-904a-62cca9132458 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -389,14 +393,14 @@ Structuring the Paper (Writing the Introduction, Body, and Conclusion)
 
 [Language and Gender: A Brief Literature Review](http://www4.caes.hku.hk/acadgrammar/litrev/examples/litex3com.htm)
 
-Apes and Langauge: Literature Review (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.dianahacker.com/pdfs/Hacker-Shaw-APA.pdf)) from the [official Web site for Diane Hacker](http://www.dianahacker.com/), author of _A Pocket Style Manual_ (please see [study materials]({{< baseurl >}}/pages/study-materials) for more information)
+Apes and Langauge: Literature Review ([PDF](http://www.dianahacker.com/pdfs/Hacker-Shaw-APA.pdf)) from the [official Web site for Diane Hacker](http://www.dianahacker.com/), author of _A Pocket Style Manual_ (please see {{% resource_link 995b2dc7-478d-924f-a0ce-bad20b8aa1a5 "study materials" %}} for more information)
 
-Adolescent Depression (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://owl.english.purdue.edu/workshops/hypertext/apa/print/papers/litreview.pdf)) from [Purdue University Online Writing Lab (OWL)](http://owl.english.purdue.edu/owl/)
+Adolescent Depression ([PDF](http://owl.english.purdue.edu/workshops/hypertext/apa/print/papers/litreview.pdf)) from [Purdue University Online Writing Lab (OWL)](http://owl.english.purdue.edu/owl/)
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Discussion Questions for Sample Literature Reviews ([PDF]({{< baseurl >}}/resources/ses16_sample_lit))
+Discussion Questions for Sample Literature Reviews ({{% resource_link 6af77307-3a40-354b-16d2-181fdfb03cf0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus contains an overview and list of materials for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: d27689f3-c39b-ec61-d721-15d0a5692aee
 ---

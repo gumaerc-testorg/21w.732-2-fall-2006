@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: Supplementary notes for course text and additional topical notes.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 995b2dc7-478d-924f-a0ce-bad20b8aa1a5
 ---
