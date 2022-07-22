@@ -5,6 +5,7 @@ file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-scien
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ses5_env_ethics.pdf
 uid: cf8ad8a6-a175-418f-0ac9-591f4723eab9
 ---
 This resource contains Some cases, Views of nature.
-

@@ -6,6 +6,7 @@ file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-scien
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ses10.pdf
 uid: 22afb5b2-f6ce-50e9-94de-c4321de66cc1
 ---
 This resource contain Overview of 6 articles, Overview of APA Citation format.
-

@@ -6,6 +6,7 @@ file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-scien
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: paper3_nuc_waste.pdf
 uid: ba10dc9e-3aef-6828-fd26-fe6f4c1493ca
 ---
 This resourse contains information about Short-term Storage,  Long-term Storage - The Once Through Method, Yucca Mountain Repository, Reprocessing.
-

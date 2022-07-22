@@ -5,6 +5,7 @@ file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-scien
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: paper3_lit_rev.pdf
 uid: 3dd230a4-6638-6f41-3f2f-d58de130b4c4
 ---
 This resource contains questions.
-

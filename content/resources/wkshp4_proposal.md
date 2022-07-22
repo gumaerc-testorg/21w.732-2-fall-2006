@@ -5,6 +5,7 @@ file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-scien
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: wkshp4_proposal.pdf
 uid: ed1900b8-4097-0748-ed4e-7b005263d528
 ---
 This resource contains Abstract, Background, Problem Statement.
-

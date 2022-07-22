@@ -5,6 +5,7 @@ file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-scien
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: wkshp2_crit_rev.pdf
 uid: 95dacb5b-30f9-6535-aaf0-cc9bc8732e9c
 ---
 This resource contains a problem statement.
-

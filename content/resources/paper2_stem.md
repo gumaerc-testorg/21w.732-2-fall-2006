@@ -6,6 +6,7 @@ file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-scien
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: paper2_stem.pdf
 uid: f9a49dd9-68fb-054e-f506-5e693c5ce6c3
 ---
 Sample work for the formal paper assignment submitted by an anonymous student.
-

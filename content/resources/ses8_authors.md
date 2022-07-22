@@ -6,6 +6,7 @@ file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-scien
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: ses8_authors.pdf
 uid: e8066253-d511-23ee-180f-96c2799c2078
 ---
 This resource contains Discussion Questions for Elshtain and Karpati readings.
-
