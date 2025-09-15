@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains a problem statement.
-file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/95dacb5b30f96535aaf0cc9bc8732e9c_wkshp2_crit_rev.pdf
+file: /ol-ocw-studio-app/courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/95dacb5b30f96535aaf0cc9bc8732e9c_wkshp2_crit_rev.pdf
+file_size: 11526
 file_type: application/pdf
 learning_resource_types:
 - Assignments

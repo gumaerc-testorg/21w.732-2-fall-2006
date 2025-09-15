@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource captures the response.
-file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/3beaf42a80a71aa42c1303dbff9ff80d_wkshp_response.pdf
+file: /ol-ocw-studio-app/courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/3beaf42a80a71aa42c1303dbff9ff80d_wkshp_response.pdf
+file_size: 12418
 file_type: application/pdf
 learning_resource_types:
 - Assignments

@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contains Discussion Questions for Elshtain and Karpati
   readings.
-file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/e8066253d51123ee180f96c2799c2078_ses8_authors.pdf
+file: /ol-ocw-studio-app/courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/e8066253d51123ee180f96c2799c2078_ses8_authors.pdf
+file_size: 19287
 file_type: application/pdf
 learning_resource_types:
 - Readings

@@ -2,7 +2,8 @@
 content_type: resource
 description: Sample work for the formal paper assignment submitted by an anonymous
   student.
-file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/f9a49dd968fb054ef5065e693c5ce6c3_paper2_stem.pdf
+file: /ol-ocw-studio-app/courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/f9a49dd968fb054ef5065e693c5ce6c3_paper2_stem.pdf
+file_size: 19990
 file_type: application/pdf
 learning_resource_types:
 - Assignments

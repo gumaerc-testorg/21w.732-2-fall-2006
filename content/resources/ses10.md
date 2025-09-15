@@ -2,7 +2,8 @@
 content_type: resource
 description: This resource contain Overview of 6 articles, Overview of APA Citation
   format.
-file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/22afb5b2f6ce50e994dec4321de66cc1_ses10.pdf
+file: /ol-ocw-studio-app/courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/22afb5b2f6ce50e994dec4321de66cc1_ses10.pdf
+file_size: 23628
 file_type: application/pdf
 learning_resource_types:
 - Readings

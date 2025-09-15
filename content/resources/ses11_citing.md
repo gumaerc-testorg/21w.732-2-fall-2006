@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Handout.
-file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/86e849f83cd1c9d980a1e41a6f598ab4_ses11_citing.pdf
+file: /ol-ocw-studio-app/courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/86e849f83cd1c9d980a1e41a6f598ab4_ses11_citing.pdf
+file_size: 27248
 file_type: application/pdf
 learning_resource_types:
 - Readings

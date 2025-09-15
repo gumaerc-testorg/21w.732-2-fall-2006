@@ -1,6 +1,5 @@
 ---
 content_type: page
-description: Problems to test students understanding of course material.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

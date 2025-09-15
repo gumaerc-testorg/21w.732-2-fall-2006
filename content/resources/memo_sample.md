@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This course contains Purpose of Using Memos, Style, Sections.
-file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/29f7394bb17e51dba5bb1df8a591185f_memo_sample.pdf
+file: /ol-ocw-studio-app/courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/29f7394bb17e51dba5bb1df8a591185f_memo_sample.pdf
+file_size: 21914
 file_type: application/pdf
 learning_resource_types:
 - Assignments

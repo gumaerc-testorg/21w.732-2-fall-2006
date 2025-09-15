@@ -2,7 +2,8 @@
 content_type: resource
 description: 'This resource contains Self-Assessment: Rules of Citation, Acceptable
   Use or Plagiarism.'
-file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/5908cc63ba5a37bd41beed7c13f8e41d_citing_sources.pdf
+file: /ol-ocw-studio-app/courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/5908cc63ba5a37bd41beed7c13f8e41d_citing_sources.pdf
+file_size: 27248
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

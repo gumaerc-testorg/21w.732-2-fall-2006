@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: This resource contains various cases and problem statement.
-file: /courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/2d20b114a136018e8b26dc920cfccc49_ses5_xyz.pdf
+file: /ol-ocw-studio-app/courses/21w-732-2-introduction-to-technical-communication-ethics-in-science-and-technology-fall-2006/2d20b114a136018e8b26dc920cfccc49_ses5_xyz.pdf
+file_size: 10189
 file_type: application/pdf
 learning_resource_types:
 - Readings
