@@ -14,7 +14,7 @@ Students read and discussed case studies throughout the course. They were divide
 
 All case studies were from Harris, Charles E. Jr., Michael S. Pritchard, and Michael J. Rabins. _Engineering Ethics: Concepts and Cases_. 3rd ed. Belmont, CA: Thomson/Wadsworth, 2004. ISBN: 9780534605797.
 
-(See the [_Engineering Ethics_ Companion Site](http://www.wadsworth.com/cgi-wadsworth/course_products_wp.pl?fid=M20b&product_isbn_issn=0534605796&discipline_number=5) for complementary texts.)
+(See the {{% resource_link "623fa04c-d82c-4a45-9749-b98762d938b9" "_Engineering Ethics_ Companion Site" %}} for complementary texts.)
 
 The case studies were:
 

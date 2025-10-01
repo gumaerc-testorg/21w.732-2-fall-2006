@@ -14,7 +14,7 @@ Main Texts
 
 MacKenzie, Nancy R_. Science and Technology Today: Readings for Writers_. New York, NY: Bedford/St. Martin's Press, 1994. ISBN: 9780312096922.
 
-Harris, Jr., Charles E., Michael S. Pritchard, and Michael J. Rabins. _Engineering Ethics: Concepts and Cases_. 3rd ed. Belmont, CA: Thomson/Wadsworth, 2004. ISBN: 9780534605797. (See the book's [companion site](http://www.wadsworth.com/cgi-wadsworth/course_products_wp.pl?fid=M20b&product_isbn_issn=0534605796&discipline_number=5) for brief summaries of some of the cases.)
+Harris, Jr., Charles E., Michael S. Pritchard, and Michael J. Rabins. _Engineering Ethics: Concepts and Cases_. 3rd ed. Belmont, CA: Thomson/Wadsworth, 2004. ISBN: 9780534605797. (See the book's {{% resource_link "623fa04c-d82c-4a45-9749-b98762d938b9" "companion site" %}} for brief summaries of some of the cases.)
 
 Readings by Session
 -------------------
@@ -79,7 +79,7 @@ Case Discussion: The Hyatt Regency Walkways Collapse
 
 {{< tdclose >}}
 {{< tdopen >}}
-Hyatt Regency Case [description](http://www.engineering.com/Library/ArticlesPage/tabid/85/ArticleID/175/Hyatt-Regency-Walkway-Collapse.aspx) and [pictures](https://interestingengineering.com/understanding-hyatt-regency-walkway-collapse).
+Hyatt Regency Case {{% resource_link "3ee0eaee-7321-438b-9131-2b1d528e032a" "description" %}} and {{% resource_link "d0870ce0-a12d-4e8a-b128-5c7b17e39879" "pictures" %}}.
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -162,7 +162,7 @@ Correspondence: Letters and Cover Letters (cont.)
 
 "Aftermath of Chernobyl." In _Engineering Ethics_.
 
-Gopen, George D., and Judith A. Swan. "[The Science of Scientific Writing](http://www.americanscientist.org/issues/feature/the-science-of-scientific-writing/1)." _American Scientist_ 78 (November-December 1990): 550-558.
+Gopen, George D., and Judith A. Swan. "{{% resource_link "558aeaa8-e4d8-4049-9c50-1b9670c5990a" "The Science of Scientific Writing" %}}." _American Scientist_ 78 (November-December 1990): 550-558.
 
 
 {{< tdclose >}}
@@ -195,7 +195,7 @@ Elshtain, Jean Bethke. "Why Worry About the Animals?" In _Science and Technology
 
 Karpati, Ron. "A Scientist: 'I Am the Enemy.'" In _Science and Technology Today_. (Originally published in _Newsweek_, 18 December, 1989.)
 
-MIT Careers Office: Career Development Workbook ([PDF - 2.2 MB](http://web.mit.edu/career/www/students/workbook.pdf))
+MIT Careers Office: Career Development Workbook ({{% resource_link "04e519a6-28bf-4723-acdb-a5fc688611c5" "PDF - 2.2 MB" %}})
 
 
 {{< tdclose >}}
@@ -365,7 +365,7 @@ Overview of Sample Literature Reviews ({{% resource_link c57072e7-1850-65ab-904a
 Library Visit
 {{< tdclose >}}
 {{< tdopen >}}
-[MIT Libraries: Barton Basics](http://library.mit.edu/F/GMMGAS78DXHNAXEJ64FTCMMMGBFEH9E6NF2EB6J28NPSIK7AN6-03986?RN=514578602)
+{{% resource_link "0aa8288d-4e93-469a-a0ac-375a3c00d9e8" "MIT Libraries: Barton Basics" %}}
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -390,11 +390,11 @@ Structuring the Paper (Writing the Introduction, Body, and Conclusion)
 
 ### Sample Literature Reviews
 
-[Language and Gender: A Brief Literature Review](http://www4.caes.hku.hk/acadgrammar/litrev/examples/litex3com.htm)
+{{% resource_link "c8fd7f82-11d5-44f7-b176-376393a5ab29" "Language and Gender: A Brief Literature Review" %}}
 
-Apes and Langauge: Literature Review ([PDF](http://www.dianahacker.com/pdfs/Hacker-Shaw-APA.pdf)) from the [official Web site for Diane Hacker](http://www.dianahacker.com/), author of _A Pocket Style Manual_ (please see {{% resource_link 995b2dc7-478d-924f-a0ce-bad20b8aa1a5 "study materials" %}} for more information)
+Apes and Langauge: Literature Review ({{% resource_link "c1794e7a-d1d5-402c-a678-d842e44439a1" "PDF" %}}) from the {{% resource_link "53f7747e-c7d3-4b11-8bff-d5b11ec70b29" "official Web site for Diane Hacker" %}}, author of _A Pocket Style Manual_ (please see {{% resource_link 995b2dc7-478d-924f-a0ce-bad20b8aa1a5 "study materials" %}} for more information)
 
-Adolescent Depression ([PDF](http://owl.english.purdue.edu/workshops/hypertext/apa/print/papers/litreview.pdf)) from [Purdue University Online Writing Lab (OWL)](http://owl.english.purdue.edu/owl/)
+Adolescent Depression ({{% resource_link "d8875f39-83c4-4819-b8f4-f3510ebd4b78" "PDF" %}}) from {{% resource_link "16c8b8f0-d120-44b9-99d7-5ad3726b4fd0" "Purdue University Online Writing Lab (OWL)" %}}
 
 
 {{< tdclose >}}
