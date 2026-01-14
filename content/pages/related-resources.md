@@ -9,31 +9,31 @@ uid: 09b3ab4f-3429-73ce-ea95-ba3dde98f13c
 Writing Links
 -------------
 
-{{% resource_link "71737fa7-d45e-49b0-9217-9d1391ff52b1" "MIT Writing and Communication Center" %}}
+[MIT Writing and Communication Center](http://web.mit.edu/writing/)
 
-{{% resource_link "16c8b8f0-d120-44b9-99d7-5ad3726b4fd0" "Purdue University Online Writing Lab (OWL)" %}}
+[Purdue University Online Writing Lab (OWL)](http://owl.english.purdue.edu/owl/)
 
-{{% resource_link "ef1652da-7558-49de-86a7-673e1953b43b" "The Mayfield Handbook of Technical and Scientific Writing" %}}
+[The Mayfield Handbook of Technical and Scientific Writing](http://www.mhhe.com/mayfieldpub/tsw/home.htm)
 
-{{% resource_link "7c539ce5-fd93-4dbd-9c5e-92bd6b766f56" "3M Meeting Network" %}}  
+[3M Meeting Network](http://solutions.3m.com/wps/portal/3M/en_US/Meetings/Home/)  
 This site provides a number of resources for facilitating meetings and delivering presentations.
 
 Ethics in Technology Links
 --------------------------
 
-{{% resource_link "623fa04c-d82c-4a45-9749-b98762d938b9" "_Engineering Ethics_ Companion Site" %}}
+[_Engineering Ethics_ Companion Site](http://www.wadsworth.com/cgi-wadsworth/course_products_wp.pl?fid=M20b&product_isbn_issn=0534605796&discipline_number=5)
 
-{{% resource_link "02338742-2593-4b53-a7c8-1f484cba8739" "The Online Ethics Center for Engineering and Science at Case Western Reserve University" %}}  
+[The Online Ethics Center for Engineering and Science at Case Western Reserve University](http://onlineethics.org/)  
 "Our mission is to provide engineers, scientists, and science and engineering students with resources for understanding and addressing ethically significant problems that arise in their work, and to serve those who are promoting learning and advancing the understanding of responsible research and practice in science and engineering."
 
-{{% resource_link "9474a432-707f-410c-9e1e-32655ef0a2a0" "Codes of Ethics and Conduct" %}}  
+[Codes of Ethics and Conduct](https://www.cfainstitute.org/ethics/codes/ethics/Pages/index.aspx)  
 Compilation of a great number of Professional Societies' Codes of Ethics.
 
-{{% resource_link "0df581f8-69aa-4243-b7b9-0b9a5e6780eb" "Professional Ethics in Engineering Practice: Discussion Cases" %}}  
+[Professional Ethics in Engineering Practice: Discussion Cases](http://www.onlineethics.org/Resources/Cases/NSPEcases.aspx)  
 "These cases present situations that raise ethical questions common in engineering practice and research. They are based on original cases brought to the BER (Board of Ethical Review) of the NSPE (National Society of Professional Engineers) for review. The NSPE BER reviews cases with the specific purpose of making an ethical judgment on the actions of (only) the engineers in the cases, based solely on the NSPE Code of Ethics."
 
-{{% resource_link "6ba5001a-ea00-457d-90b9-ab04f4d7ee66" "National Science Foundation" %}}  
+[National Science Foundation](http://www.nsf.gov/)  
 Main Web site for the NSF.
 
-{{% resource_link "286ffc79-c392-4623-b9cd-76f0d7c3a11b" "Conferences on Science and World Affairs: Pugwash Online" %}}  
+[Conferences on Science and World Affairs: Pugwash Online](http://www.pugwash.org/)  
 "The Conferences on Science and World Affairs mission is to bring scientific insight and reason to bear on threats to human security arising from science and technology in general, and above all from the catastrophic threat posed to humanity by nuclear and other weapons of mass destruction."
